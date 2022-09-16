@@ -8,7 +8,7 @@ body{
     width: 100%;
     height: auto;
     color: white;
-    background-image: url(./src/fundo.png);
+    background-image: url(./fundo.png);
     background-color: #111114;
     background-position: top center;    
     background-size: 100% auto;
